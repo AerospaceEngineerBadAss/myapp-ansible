@@ -1,2 +1,2 @@
 [webservers]
-172.31.29.31 ansible_user=ubuntu
+ec2-35-175-194-192.compute-1.amazonaws.com ansible_user=ubuntu
